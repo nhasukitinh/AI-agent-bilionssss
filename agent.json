@@ -1,0 +1,10 @@
+{
+  "name": "Bilions AI Agent",
+  "version": "1.0.0",
+  "network": "billions",
+  "did": "did:iden3:billions:main:2VmAkXrihYaLG3XfH9HJNreUV4Q1SYVZVTasp7yUSN",
+  "identity_verified": true,
+  "human_linked": true,
+  "default_skill": "verified-agent-identity",
+  "runtime": "openclaw"
+}

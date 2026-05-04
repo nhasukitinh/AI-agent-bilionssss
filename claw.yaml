@@ -1,0 +1,10 @@
+agent:
+  name: Bilions AI Agent
+  did: did:iden3:billions:main:2VmAkXrihYaLG3XfH9HJNreUV4Q1SYVZVTasp7yUSN
+  network: billions
+
+skills:
+  - verified-agent-identity
+
+storage:
+  identity_path: /home/codespace/.openclaw/billions
